@@ -1,5 +1,5 @@
 # QuotesChromeExtension
-Chrome extension that displays inspirational quotes in the popup menu. 
+QuotesXYZ - Chrome extension that displays inspirational quotes in the popup menu. 
 
 Check Out Extension: https://chrome.google.com/webstore/detail/quotesxyz/fjimloifeladhjpgopkgfkmppnohjnan?hl=en
 
